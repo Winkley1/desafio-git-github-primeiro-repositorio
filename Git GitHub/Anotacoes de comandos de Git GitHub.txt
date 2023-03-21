@@ -1,0 +1,12 @@
+Comandos e Atalhos do Git
+
+- cd : para entrar na pasta
+- cd .. : para voltar na pasta
+- ls :  para listar os diretorios da pasta
+- mkdir : para criar uma pasta
+- echo : usando > para redirecioar para poder criar um arquivo 
+- del / rmdir : para deletar uma pasta 
+- Ctrl + L  ou clear: limpar a tela
+- git init : para poder iniciar o repositori
+- git add : para mover aquivos 
+- git commit : para criar o commit
